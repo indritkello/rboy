@@ -1,0 +1,6 @@
+F:\FunProjects\Party\Party\bin\Debug\Party.exe.config
+F:\FunProjects\Party\Party\bin\Debug\Party.exe
+F:\FunProjects\Party\Party\bin\Debug\Party.pdb
+F:\FunProjects\Party\Party\obj\Debug\Party.exe
+F:\FunProjects\Party\Party\obj\Debug\Party.pdb
+F:\FunProjects\Party\Party\obj\Debug\Party.csprojResolveAssemblyReference.cache
